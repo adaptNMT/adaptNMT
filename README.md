@@ -1,8 +1,8 @@
 # Neural Machine Translation Development
 
-## Translation Automation Book (mtdev repo)
+## Translation Automation Book 
 
-This contains the official repository for supporting materials and resources for the book **"Translation Automation"**. This book and its accompanying resources are designed to bridge the gap between theoretical knowledge and practical application in the field of translation technology, with a special focus on Machine Translation (MT), Neural MT (NMT), and Large Language Models (LLMs).
+This contains the official repository (mtdev) for supporting materials and resources for the book **"Translation Automation"**. This book and its accompanying resources are designed to bridge the gap between theoretical knowledge and practical application in the field of translation technology, with a special focus on Machine Translation (MT), Neural MT (NMT), and Large Language Models (LLMs).
 
 "Translation Automation" examines the crucial role of translation technology in today's language services industry, with a spotlight on the transformative power of MT. The authors posit a simple but powerful stance: **knowledge is power**. By demystifying how translation technology, especially NMT and LLMs, works, the book aims to equip current and future generations of translation and humanities students, as well as industry practitioners, with the knowledge to make informed decisions about MT application and evaluation.
 
