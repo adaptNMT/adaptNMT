@@ -1,12 +1,13 @@
 # Neural Machine Translation Development
 
-## Translation Automation Book 
+## Automating Translation 
 
-This contains the official repository (mtdev) for supporting materials and resources for the book **"Translation Automation"**. This book and its accompanying resources are designed to bridge the gap between theoretical knowledge and practical application in the field of translation technology, with a special focus on Machine Translation (MT), Neural MT (NMT), and Large Language Models (LLMs).
+This GitHub contains the official repository (mtdev) for supporting materials and resources for the book **"Automating Translation"**. 
 
-"Translation Automation" examines the crucial role of translation technology in today's language services industry, with a spotlight on the transformative power of MT. The authors posit a simple but powerful stance: **knowledge is power**. By demystifying how translation technology, especially NMT and LLMs, works, the book aims to equip current and future generations of translation and humanities students, as well as industry practitioners, with the knowledge to make informed decisions about MT application and evaluation.
+Translation technology is essential for translation students, practising translators, and those working as part of the language services industry, but looming above others are the tools for automating translation: machine translation (MT) and, more recently, Generative AI based on Large Language Models (LLMs).
 
-The narrative underscores the significance of understanding MT's appropriate use cases, its limitations, and the nuances of MT evaluation in the wake of the hype surrounding the advent of online NMT systems and LLMs. This comprehensive guide is intended for anyone interested in a deeper understanding of how modern translation technologies operate and those keen on exploring the practical aspects of building their own NMT system.
+"Automating Translation", authored by leading experts, demystifies MT, explaining its origins, its training data, how neural MT and LLMs work, how to measure their quality, how translators interact with contemporary systems for automating translation, and how readers can build their own MT or LLM. In later chapters, the scope of the book expands to look more broadly at translation automation in audiovisual translation and localisation. Importantly, the book also examines the sociotechnical context, focusing on ethics and sustainability. Enhanced with activities, further reading and resource links, including online support material on the Routledge Translation studies portal, this is an essential textbook for students of translation studies, trainee and practising translators and users of MT and multilingual LLMs.
+![image](https://github.com/adaptNMT/adaptNMT/assets/101801657/13c0d6a4-14af-4547-a9e9-bbf3b91e9d48)
 
 ## adaptNMT
 
