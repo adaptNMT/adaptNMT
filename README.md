@@ -8,7 +8,7 @@ Translation technology is essential for translation students, practising transla
 
 "Automating Translation", authored by leading experts, demystifies MT, explaining its origins, its training data, how neural MT and LLMs work, how to measure their quality, how translators interact with contemporary systems for automating translation, and how readers can build their own MT or LLM. In later chapters, the scope of the book expands to look more broadly at translation automation in audiovisual translation and localisation. Importantly, the book also examines the sociotechnical context, focusing on ethics and sustainability. Enhanced with activities, further reading and resource links, including online support material on the Routledge Translation studies portal, this is an essential textbook for students of translation studies, trainee and practising translators and users of MT and multilingual LLMs.
 
-![image](https://github.com/adaptNMT/adaptNMT/assets/101801657/1f3dca73-d968-4f65-80bf-c58e636345f9)
+![image](https://github.com/adaptNMT/mtdev/assets/101801657/dbd5db6e-d501-473b-a638-2f9887b52cee)
 
 ## adaptNMT
 
